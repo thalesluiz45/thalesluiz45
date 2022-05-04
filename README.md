@@ -21,8 +21,7 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />                  
 </div>
 
-##
-
+<br>
 
 <div align="center">
   <h2>🌐Redes sociais:</h2>
