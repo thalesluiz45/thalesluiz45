@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/942300225039654912/971450986050764840/Thales.png">
 
-<p><b>•Olá!</b> Me chamo Thales, tenho 21 anos e sou estudante de desenvolvimento web Front-End!👽</p>
+<p><b>•Olá!</b> Me chamo Thales, tenho 22 anos e sou estudante de desenvolvimento web Front-End!👽</p>
 
 ##
 
