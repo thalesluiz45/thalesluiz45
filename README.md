@@ -1,4 +1,4 @@
-<p><b>•Olá!</b> Me chamo Thales, tenho 22 anos e sou estudante de desenvolvimento web Front-End!👽</p>
+<p><b>•Olá!</b> Me chamo Thales, tenho 23 anos e sou estudante de análise e desenvolvimento de sistemas!👽</p>
 
 ##
 
