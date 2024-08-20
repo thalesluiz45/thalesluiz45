@@ -24,6 +24,6 @@
 <div align="center">
   <h2>🌐Redes sociais:</h2>
   
-  <a href="https://www.linkedin.com/in/thales-luiz-0a6057230/"> <img height="50" width="50" src="https://cdn.discordapp.com/attachments/942300225039654912/971456031974645760/linkedin-pngrepo-com.png" /> </a>
-  <a href="https://www.instagram.com/t.luiz_/"> <img height="50" width="50" src="https://cdn.discordapp.com/attachments/942300225039654912/971456032356319232/instagram-pngrepo-com.png" alt=""></a>
+  <a href="https://www.linkedin.com/in/thales-luiz-0a6057230/"> <img height="50" width="50" src="https://i.imgur.com/vwaczp6.png" alt="" /> </a>
+  <a href="https://www.instagram.com/t.luiz_/"> <img height="50" width="50" src="https://i.imgur.com/b1yuENP.png" alt=""></a>
 </div>
