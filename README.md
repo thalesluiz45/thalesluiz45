@@ -1,6 +1,6 @@
 <div >
   <h1>👋 Olá!</h1>
-  <p>Me chamo Thales, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas! 👽</p>
+  <p>Me chamo Thales, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas! 👽</p>
   <a  href="https://github.com/thalesluiz45">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thalesluiz45&show_icons=true&theme=radical">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesluiz45&layout=compact&theme=radical">
